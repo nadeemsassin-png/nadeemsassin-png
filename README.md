@@ -1,6 +1,6 @@
 # Hey, I'm Nadeem 👋
 
-CE/EE undergraduate at UMass Dartmouth. Interested in robotics, embedded systems, and defense applications.
+CE/EE undergraduate at UMass Dartmouth. I'm Interested in robotics and embedded systems.
 
 ---
 
