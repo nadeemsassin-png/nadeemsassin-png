@@ -28,4 +28,3 @@ CE/EE undergraduate at UMass Dartmouth. I'm Interested in robotics and embedded 
 | [Multi-Agent UUV Attacker Sim](https://github.com/nadeemsassin-png/Multi-Agent-UUV-Attacker-Sim) | Multi-agent progression — BlueROV2, Riptide Micro, HUGIN Superior with distinct behaviors |
 
 ---
-*CE/EE @ UMass Dartmouth — always building something*
