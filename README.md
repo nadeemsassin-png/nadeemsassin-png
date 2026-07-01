@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Nadeem 👋
 
-<!--
-**nadeemsassin-png/nadeemsassin-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CE/EE undergraduate at UMass Dartmouth. Interested in robotics, embedded systems, and defense applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## C Projects
+| Repo | Description |
+|---|---|
+| [Blackjack](https://github.com/The-Jedi-501/Final_Project) | Freshman team project — terminal blackjack game in C |
+
+## C++ Projects
+| Repo | Description |
+|---|---|
+| [Minesweeper](https://github.com/nadeemsassin-png/Minesweeper) | First-click-safe minesweeper with score persistence and difficulty modes |
+| [BlueROV2 Attacker Sim](https://github.com/nadeemsassin-png/AttackAgentOneBlueROV2) | Single-agent UUV attacker simulation on a real Pearl Harbor map |
+| [Multi-Agent UUV Attacker Sim](https://github.com/nadeemsassin-png/Multi-Agent-UUV-Attacker-Sim) | Interactive sim of 3 real-world attacker UUVs with unique movement behaviors |
+
+## Python Projects
+| Repo | Description |
+|---|---|
+| [Pokémon Showdown](https://github.com/nadeemsassin-png/Pokemon-Showdown-National-Dex-Ubers) | Battle simulator with Elo ranking, AI opponents, and competitive mechanics |
+
+## Research Projects
+| Repo | Description |
+|---|---|
+| [BlueROV2 Attacker Sim](https://github.com/nadeemsassin-png/AttackAgentOneBlueROV2) | Proof-of-concept single attacker agent — part of UUV/UAV harbor defense research at UMass Dartmouth |
+| [Multi-Agent UUV Attacker Sim](https://github.com/nadeemsassin-png/Multi-Agent-UUV-Attacker-Sim) | Multi-agent progression — BlueROV2, Riptide Micro, HUGIN Superior with distinct behaviors |
+
+---
+*CE/EE @ UMass Dartmouth — always building something*
