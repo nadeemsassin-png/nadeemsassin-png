@@ -20,6 +20,7 @@ CE/EE undergraduate at UMass Dartmouth. I'm Interested in robotics and embedded 
 | Repo | Description |
 |---|---|
 | [Pokémon Showdown](https://github.com/nadeemsassin-png/Pokemon-Showdown-National-Dex-Ubers) | Battle simulator with Elo ranking, AI opponents, and competitive mechanics |
+| [Cybersecurity Final Project, Secure Password Manager](https://github.com/nadeemsassin-png/SecurePasswordManager) | Currenlty Working On This! |
 
 ## Research Projects
 | Repo | Description |
@@ -27,4 +28,11 @@ CE/EE undergraduate at UMass Dartmouth. I'm Interested in robotics and embedded 
 | [BlueROV2 Attacker Sim](https://github.com/nadeemsassin-png/AttackAgentOneBlueROV2) | Proof-of-concept single attacker agent — part of UUV/UAV harbor defense research at UMass Dartmouth |
 | [Multi-Agent UUV Attacker Sim](https://github.com/nadeemsassin-png/Multi-Agent-UUV-Attacker-Sim) | Multi-agent progression — BlueROV2, Riptide Micro, HUGIN Superior with distinct behaviors |
 | [UUV Simulation Analysis](https://github.com/DanMint/UUV-Simulation-Analysis) | Collaborator; Researching and developing UUV/UAV harbor attack/defense architectures (10 hrs/week) |
+---
+
+## Other Code Submissions
+| Repo | Description |
+|---|---|
+| [NeetCode](https://github.com/nadeemsassin-png/Multi-Agent-UUV-Attacker-Sim) | NeetCode Submissions |
+| [LeetCode](https://github.com/DanMint/UUV-Simulation-Analysis) | LeetCode Submissions |
 ---
