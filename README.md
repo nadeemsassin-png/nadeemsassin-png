@@ -20,7 +20,7 @@ CE/EE undergraduate at UMass Dartmouth. I'm Interested in robotics and embedded 
 | Repo | Description |
 |---|---|
 | [Pokémon Showdown](https://github.com/nadeemsassin-png/Pokemon-Showdown-National-Dex-Ubers) | Battle simulator with Elo ranking, AI opponents, and competitive mechanics |
-| [Cybersecurity Final Project, Secure Password Manager](https://github.com/nadeemsassin-png/SecurePasswordManager) | Currenlty Working On This! |
+| [Cybersecurity Final Project, Secure Password Manager](https://github.com/nadeemsassin-png/SecurePasswordManager) |Command-line password manager in Python with AES-GCM encryption and scrypt key derivation |
 
 ## Research Projects
 | Repo | Description |
